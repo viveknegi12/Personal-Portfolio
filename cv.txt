@@ -1,0 +1,38 @@
+This is my resume.
+
+Vivek Singh Negi
+Email-id : vanshnegi379@gmail.com
+Mobile No.: 7668577848
+
+ACADEMIC DETAILS
+
+Year Degree/Exam Institute GPA/Marks(%)
+Aug, 2020 - Present B.TECH in Computer Science Graphic Era Hill University Bhimtal 8.15/10.0 %
+2020 C.B.S.E Beersheba Sr. sec. school 72.2 %
+2018 C.B.S.E Beersheba Sr. sec. school 74.4 %
+
+PROJECTS
+
+• Library Management System in Java (April 2023 - May 2023) :As a Java developer, I have experience in
+designing and implementing a library management system. The system includes a user interface for librar-
+ians to manage book collections, borrower information, and circulation records. It also includes a search
+function for users to find books and reserve them.
+• Sorting Visualizer (Nov 2022 - Dec 2022) : It was a group project which was created by using Html, CSS
+and JavaScript. The website starts with a header section that includes the name of the project the main
+the section was a sorting section where the user can select a sorting algorithm and visualize how it works
+on a set of data, the algorithm name was clickable and when the algorithm was sorted it shows its time
+complexity and we can adjust the time, speed of visualization, and array size.
+• Resume Builder website (April 2022 - May 2022) :It was also a group project which was created by us-
+ing Html,CSS, and JavaScript. By inputting personal information, work experience, education, and skills
+into the CV builder website, it automatically generates a well-structured resume that is both concise and
+informative.
+
+TECHNICAL SKILLS
+
+• Languages Java, HTML , CSS, Javascipt, Data Structure and Algorithm.
+
+ACHIEVEMENTS
+
+• Secure a good Rank in the Olympiad competition in Intermediate.
+• Passed NCC A and B Certificate exams with A grade.
+• Cultural Secretary at High school.
